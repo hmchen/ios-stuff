@@ -16,3 +16,6 @@ https://github.com/wojteklu/Watchdog
 ### Result type
 https://www.swiftbysundell.com/posts/the-power-of-result-types-in-swift 
 * https://news.ycombinator.com/item?id=17333966
+
+https://fsharpforfunandprofit.com/rop/
+* https://news.ycombinator.com/item?id=17337155
