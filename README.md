@@ -14,4 +14,5 @@ https://github.com/wojteklu/Watchdog
 ## Swift
 
 ### Result type
-https://www.swiftbysundell.com/posts/the-power-of-result-types-in-swift https://news.ycombinator.com/item?id=17333966
+https://www.swiftbysundell.com/posts/the-power-of-result-types-in-swift 
+* https://news.ycombinator.com/item?id=17333966
