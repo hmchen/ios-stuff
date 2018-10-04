@@ -36,3 +36,9 @@ https://www.appcoda.com/background-transfer-service-ios7/
 For more visibility into how the system is scheduling and performing your background tasks, download and install the Background Networking Profile onto your iOS device from the Bug Reporting Profiles and Logs page.
 https://developer.apple.com/bug-reporting/profiles-and-logs/
 
+### Network layer with NSOperation
+
+https://williamboles.me/building-a-networking-layer-with-operations/
+
+http://www.cimgf.com/2016/01/28/a-modern-network-operation/
+
