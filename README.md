@@ -42,6 +42,19 @@ https://williamboles.me/building-a-networking-layer-with-operations/
 
 http://www.cimgf.com/2016/01/28/a-modern-network-operation/
 
+## Animations
+
+https://github.com/schneiderandre/popping
+
+## Architecture
+
+https://github.com/Draveness/analyze
+https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52
+https://www.slideshare.net/VoloshynSlavik/mvx-patterns-in-iosmvc-mvp-mvvm
+https://www.dotnettricks.com/learn/designpatterns/understanding-mvc-mvp-and-mvvm-design-patterns
+https://medium.com/swlh/ios-design-patterns-a9bd07818129
+
+
 ## CLI
 
 https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46
