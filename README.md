@@ -42,3 +42,9 @@ https://williamboles.me/building-a-networking-layer-with-operations/
 
 http://www.cimgf.com/2016/01/28/a-modern-network-operation/
 
+## CLI
+
+https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46
+
+https://eng.localytics.com/exploring-cli-best-practices/
+
