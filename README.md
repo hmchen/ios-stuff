@@ -48,12 +48,23 @@ https://github.com/schneiderandre/popping
 
 ## Architecture
 
+https://developer.apple.com/library/archive/documentation/General/Conceptual/CocoaEncyclopedia/Model-View-Controller/Model-View-Controller.html
+
 https://github.com/Draveness/analyze
+
 https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52
+
 https://www.slideshare.net/VoloshynSlavik/mvx-patterns-in-iosmvc-mvp-mvvm
+
 https://www.dotnettricks.com/learn/designpatterns/understanding-mvc-mvp-and-mvvm-design-patterns
+
 https://medium.com/swlh/ios-design-patterns-a9bd07818129
 
+### Dependency Injection
+
+https://code.tutsplus.com/tutorials/the-right-way-to-share-state-between-swift-view-controllers--cms-28474
+
+https://willowtreeapps.com/ideas/global-state-and-dependency-injection-on-ios
 
 ## CLI
 
