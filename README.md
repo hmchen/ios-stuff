@@ -46,6 +46,8 @@ http://www.cimgf.com/2016/01/28/a-modern-network-operation/
 
 https://github.com/schneiderandre/popping
 
+http://eon.codes/blog/2016/02/20/Core-animation/
+
 ## Architecture
 
 https://developer.apple.com/library/archive/documentation/General/Conceptual/CocoaEncyclopedia/Model-View-Controller/Model-View-Controller.html
